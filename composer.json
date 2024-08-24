@@ -2,7 +2,7 @@
     "name": "bariscodefx/php-number-format-kmt",
     "description": "Format numbers as K, M, and T. (example: 300000 -> 300k)",
     "type": "library",
-    "license": "GNUv3",
+    "license": "GPL-3.0",
     "autoload": {
         "psr-4": {
             "PHPNumberFormatKMT\\": "src/"
