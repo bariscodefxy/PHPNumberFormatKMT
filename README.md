@@ -17,8 +17,8 @@ use PHPNumberFormatKMT\NumberFormatKMT;
 echo NumberFormatKMT::format(1000); // 1 K
 echo NumberFormatKMT::format(1000, discriminator: ''); // 1K
 
-echo NumberFormatKMT::format(1111); // 1.1K
-echo NumberFormatKMT::format(1111, precision: 2); // 1.11K
+echo NumberFormatKMT::format(1111); // 1.1 K
+echo NumberFormatKMT::format(1111, precision: 2); // 1.11 K
 ```
 
 ## Support
